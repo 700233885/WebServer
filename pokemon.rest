@@ -9,6 +9,9 @@ GET {{url}}/api/v1
 ### Get Pokemon By Number
 GET {{url}}/api/v1/pokemon/2
 
+### Get Pokemon By Id
+GET {{url}}/api/v1/pokemon/id/67326bb60aeda523c37479cb
+
 ### Add a Pokemon
 POST {{url}}/api/v1/pokemon/add
 Content-Type: application/json
